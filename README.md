@@ -24,7 +24,7 @@ The project uses data from the `house.csv` file, where the 'TIME' (year) and 'Va
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/ReddySruthi04/House-Price-Prediction.git
+    git clone https://github.com/Srivatsa-Kamballa/House_Price_Prediction.git
     ```
 
 2. Install dependencies:
@@ -66,9 +66,9 @@ Year: 2024, Predicted Price: ₹XXXXXX units
 ### Sample 1:
 
 ```
-sampleData1Secunderabad.csv
-Enter the name of the area: Secunderabad
-You entered: Secunderabad
+sampleData1 - Tirupati.csv
+Enter the name of the area: Tirupati
+You entered: Tirupati
 Enter the units (per sq ft, per sq meter, per 100 sq meter):  per 100 sq.M
 You entered units:  per 100 sq.M
 
@@ -83,12 +83,12 @@ Year 2027, Predicted Price: ₹19001094.00 per 100 sq.M
 Year 2028, Predicted Price: ₹19917980.00 per 100 sq.M
 Year 2029, Predicted Price: ₹20834864.00 per 100 sq.M
 ```
-![sample Data1 Secunderabad](images/sample1.png)
+![sample Data1 Tirupati](images/sample1.png)
 ### Sample 2:
 ```
-sampleData2SaketKapra.csv
-Enter the name of the area: Saket Kapra   
-You entered: Saket Kapra
+sampleData2 - Banglaore.csv
+Enter the name of the area: Bangalore  
+You entered: Bangalore
 Enter the units (per sq ft, per sq meter, per 100 sq meter):  per 100 sq.M
 You entered units:  per 100 sq.M
 1/1 [==============================] - 0s 166ms/step
@@ -101,12 +101,12 @@ Year 2026, Predicted Price: ₹9302948.00 per 100 sq.M
 Year 2027, Predicted Price: ₹10326090.00 per 100 sq.M
 Year 2028, Predicted Price: ₹11349229.00 per 100 sq.M
 ```
-![sample Data2 SaketKapra](images/sample2.png)
+![sample Data2 Bangalore](images/sample2.png)
 ### Sample 3:
 ```
-sampleData3Malkajgiri.csv
-Enter the name of the area: Malkajgiri
-You entered: Malkajgiri
+sampleData3 - Chennai.csv
+Enter the name of the area: Chennai
+You entered: Chennai
 Enter the units (per sq ft, per sq meter, per 100 sq meter):  per 100 sq.M
 You entered units:  per 100 sq.M
 1/1 [==============================] - 0s 87ms/step
@@ -120,5 +120,5 @@ Year 2027, Predicted Price: ₹8899261.00 per 100 sq.M
 Year 2028, Predicted Price: ₹9363004.00 per 100 sq.M
 Year 2029, Predicted Price: ₹9826748.00 per 100 sq.M
 ```
-![sample Data3 Malkajgiri](images/sample3.png)
+![sample Data3 Chennai](images/sample3.png)
 ---
